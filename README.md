@@ -1,0 +1,1 @@
+A Churn Prediction system using machine learning. Users can input subscription and viewing data in a Streamlit app to predict whether a customer will churn (1) or stay (0). Includes preprocessing, trained RandomForest model, and interactive UI for analysis
